@@ -1,0 +1,212 @@
+{
+	"questions": [
+		{
+			"question": "When you see a new meme, what's your reaction?",
+			"tags": "meme,humor",
+			"answers": [
+				"Instantly share it with all my friends!",
+				"Laugh silently and save it for later.",
+				"Meh, memes are so last week.",
+				"What's a meme?"
+			]
+		},
+		{
+			"question": "What's your go-to gaming strategy?",
+			"tags": "gaming,strategy",
+			"answers": [
+				"Aggressively rush in, guns blazing!",
+				"Stealth mode activated - sneaky wins the game.",
+				"Pause the game and Google for cheat codes.",
+				"I prefer watching gaming streams instead."
+			]
+		},
+		{
+			"question": "How do you deal with a bad Wi-Fi connection?",
+			"tags": "technology,frustration",
+			"answers": [
+				"Yell at the router until it behaves.",
+				"Switch to mobile data like a pro.",
+				"Take a break and contemplate life's mysteries.",
+				"Panic and contemplate moving to a new house."
+			]
+		},
+		{
+			"question": "What's your reaction when your crush texts you first?",
+			"tags": "texting,relationships",
+			"answers": [
+				"Heart skips a beat, and I reply instantly.",
+				"Play it cool, wait a few hours before replying.",
+				"Pretend I didn't see it and overanalyze for hours.",
+				"Internally screaming"
+			]
+		},
+		{
+			"question": "What's your favorite way to procrastinate?",
+			"tags": "procrastination,entertainment",
+			"answers": [
+				"Scroll through TikTok for hours.",
+				"Start a new Netflix series and binge-watch.",
+				"Stare at the ceiling and contemplate existence.",
+				"Procrastinate? Nah, I'm always on top of things!"
+			]
+		},
+		{
+			"question": "How do you handle a friend who doesn't follow you back on Instagram?",
+			"tags": "socialmedia,friendship",
+			"answers": [
+				"Unfollow them immediately. It's a matter of principle.",
+				"Subtly drop hints until they get the message.",
+				"Write a lengthy emotional post about betrayal.",
+				"It's just Instagram, who cares?"
+			]
+		},
+		{
+			"question": "Your reaction when someone asks for your Wi-Fi password?",
+			"tags": "Wi-Fi,sharing",
+			"answers": [
+				"Share it willingly, because sharing is caring!",
+				"Give them the wrong password as a prank.",
+				"Act like you didn't hear them and change the topic.",
+				"Politely decline and suggest they use their data."
+			]
+		},
+		{
+			"question": "How do you express excitement through text?",
+			"tags": "texting,emotions",
+			"answers": [
+				"CAPS LOCK AND EMOJI OVERLOAD!!!!!!!!",
+				"Use a single exclamation mark to play it cool.",
+				"Type out \"I am excited\" in full, proper grammar.",
+				"I'm too cool to express excitement over text."
+			]
+		},
+		{
+			"question": "What's your reaction when your favorite celebrity replies to your tweet?",
+			"tags": "socialmedia,interaction",
+			"answers": [
+				"Scream, cry, and screenshot for eternity!",
+				"Play it cool, like it's no big deal.",
+				"Craft a heartfelt response with perfect emojis.",
+				"Who needs celebrities when you're a star yourself?"
+			]
+		},
+		{
+			"question": "How do you handle a heated debate in a group chat?",
+			"tags": "communication",
+			"answers": [
+				"Become the keyboard warrior champion!",
+				"Stay silent and observe the chaos unfold.",
+				"Use memes to diffuse the tension.",
+				"Leave the chat and avoid drama like a ninja."
+			]
+		},
+		{
+			"question": "Your reaction when your phone battery hits 1%:",
+			"tags": "technology,panic",
+			"answers": [
+				"Panic mode activated! Must find a charger ASAP.",
+				"Meh, I'll charge it when it dies.",
+				"Begin a farewell speech to your phone.",
+				"1%? That's plenty of battery, right?"
+			]
+		},
+		{
+			"question": "How do you choose your outfit for the day?",
+			"tags": "fashion,style",
+			"answers": [
+				"Spend hours planning the perfect aesthetic.",
+				"Grab the first thing I see and roll with it.",
+				"Let fate decide - close my eyes and pick randomly.",
+				"Outfit? Who needs clothes in a virtual world?"
+			]
+		},
+		{
+			"question": "How do you react when someone mispronounces your name?",
+			"tags": "name,communication",
+			"answers": [
+				"Politely correct them and move on.",
+				"Laugh it off and make a joke about it.",
+				"Internalize the pain and question your existence.",
+				"Change your name to something easier."
+			],
+			"correct": 3
+		},
+		{
+			"question": "What's your reaction when your crush posts a new selfie?",
+			"tags": "socialmedia,crush",
+			"answers": [
+				"Double-tap faster than the speed of light!",
+				"Admire it from afar without liking or commenting.",
+				"Analyze every pixel for hidden messages.",
+				"Selfies? Meh, I'm more into memes."
+			]
+		},
+		{
+			"question": "How do you feel about group projects?",
+			"tags": "teamwork,school",
+			"answers": [
+				"Love them! Collaboration is key.",
+				"Do my part and hope for the best.",
+				"Take charge and become the project dictator.",
+				"Group projects? More like group headaches."
+			]
+		},
+		{
+			"question": "Your reaction when someone asks for your Netflix password?",
+			"tags": "Netflix,sharing",
+			"answers": [
+				"Share it happily and suggest some good shows.",
+				"Pretend you forgot it, even though you didn't.",
+				"Make them fill out a lengthy application form.",
+				"Netflix password? That's classified information."
+			]
+		},
+		{
+			"question": "How do you deal with a typo in a text message?",
+			"tags": "texting,mistakes",
+			"answers": [
+				"Correct it immediately and send an apology.",
+				"Laugh it off and pretend it was intentional.",
+				"Delete the entire conversation out of shame.",
+				"What typo? I never make mistakes."
+			]
+		},
+		{
+			"question": "What's your favorite way to express love in a relationship?",
+			"tags": "relationships,affection",
+			"answers": [
+				"Endless heart emojis and sweet texts.",
+				"Quality time spent playing video games together.",
+				"Writing love letters with perfect penmanship.",
+				"Love? I'm married to my Wi-Fi."
+			]
+		},
+		{
+			"question": "Your reaction when you accidentally open a message and don't reply:",
+			"tags": "texting,communication",
+			"answers": [
+				"Apologize profusely and explain the mistake.",
+				"Pretend it never happened and hope they forget.",
+				"Send a meme as an apology.",
+				"Accidentally on purpose ignore it forever."
+			]
+		},
+		{
+			"question": "How do you feel about pineapple on pizza?",
+			"tags": "food,opinion",
+			"answers": [
+				"Love it! Sweet and savory, the perfect combo.",
+				"It's okay, but I prefer traditional toppings.",
+				"Pineapple on pizza is a crime against humanity.",
+				"Pizza? More like instant noodles for life."
+			]
+		}
+	],
+	"results": [
+		{
+			"title": "Congratulations, You Are Average!",
+			"image": "https://miro.medium.com/v2/resize:fit:720/format:webp/1*kfg1P9zl69JPcMmlEdmNcw.jpeg",
+			"text": "In a world of extremes, you stand proudly in the middle. You are the epitome of average, and that's perfectly fine. You're not breaking any records, but you're not causing any chaos either. You're the calm in the storm, the steady hand on the wheel of life.<br><br>Embrace your averageness with pride. You're the unsung hero of normalcy, the silent champion of mediocrity. While others strive for greatness or revel in eccentricity, you navigate the middle ground with ease.<br><br>So here's to you, the embodiment of ordinariness. Keep on being wonderfully, beautifully average. After all, in a world full of extraordinary, sometimes it's the ordinary that shines the brightest."
+		}
+	]
+}
