@@ -128,8 +128,7 @@
 				"Laugh it off and make a joke about it.",
 				"Internalize the pain and question your existence.",
 				"Change your name to something easier."
-			],
-			"correct": 3
+			]
 		},
 		{
 			"question": "What's your reaction when your crush posts a new selfie?",
@@ -199,7 +198,8 @@
 				"It's okay, but I prefer traditional toppings.",
 				"Pineapple on pizza is a crime against humanity.",
 				"Pizza? More like instant noodles for life."
-			]
+			],
+			"correct": 2
 		}
 	],
 	"results": [
